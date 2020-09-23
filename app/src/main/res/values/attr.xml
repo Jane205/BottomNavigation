@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TabItemView">
+        <attr name="textSize" format="dimension" />
+        <attr name="iconSize" format="dimension" />
+        <attr name="selectedTextColor" format="color" />
+        <attr name="unSelectedTextColor" format="color" />
+        <attr name="tabName" format="string" />
+        <attr name="isSelected" format="boolean" />
+        <attr name="mTabStaticRes" format="reference" />
+        <attr name="mTabAnimateRes" format="reference" />
+    </declare-styleable>
+</resources>
